@@ -1,6 +1,6 @@
 {
-  "name": "Winter Arc",
-  "short_name": "Winter Arc",
+  "name": "Calendario",
+  "short_name": "Calendario",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
